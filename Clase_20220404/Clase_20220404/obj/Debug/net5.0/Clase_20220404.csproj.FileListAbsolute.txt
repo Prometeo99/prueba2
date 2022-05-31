@@ -1,0 +1,16 @@
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.exe
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.deps.json
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.runtimeconfig.json
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.runtimeconfig.dev.json
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.dll
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\bin\Debug\net5.0\Clase_20220404.pdb
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.csproj.AssemblyReference.cache
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.AssemblyInfoInputs.cache
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.AssemblyInfo.cs
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.csproj.CoreCompileInputs.cache
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.dll
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\refint\Clase_20220404.dll
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.pdb
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\Clase_20220404.genruntimeconfig.cache
+C:\Users\maro_\source\repos\Clase_20220404\Clase_20220404\obj\Debug\net5.0\ref\Clase_20220404.dll

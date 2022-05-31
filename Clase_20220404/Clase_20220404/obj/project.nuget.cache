@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLDzLahXHN4rdBS71YMXOsPe60V7JsaIBSQCGSt5OK7O7a//9VdaJ/gl1dgkEbAHTN9FjPgziSk6T6ITzU3nVw==",
+  "success": true,
+  "projectFilePath": "D:\\TYLA\\Clase_20220404\\Clase_20220404\\Clase_20220404\\Clase_20220404.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Rodriguez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\Miguel Rodriguez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Rodriguez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Rodriguez\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
